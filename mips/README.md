@@ -1,4 +1,4 @@
-# MIPS Assembly
+# Montagem MIPS
 
 Esta pasta reúne as atividades práticas desenvolvidas em Assembly MIPS na disciplina de Arquitetura de Sistemas Computacionais.
 

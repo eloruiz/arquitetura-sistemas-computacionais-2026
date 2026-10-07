@@ -4,7 +4,7 @@ Esta pasta reúne os laboratórios desenvolvidos em Assembly MIPS na disciplina 
 
 ## Laboratórios
 
-### Lab 01 - Eco
+### Lab 02 - Adivinhar Número
 Programa que lê um número inteiro digitado pelo usuário e imprime o mesmo valor.
 
 ### Lab 02 - Adivinhar Número

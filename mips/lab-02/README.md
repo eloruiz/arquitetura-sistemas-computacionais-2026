@@ -12,3 +12,7 @@ Após armazenar o número informado, o programa solicita novos valores até que 
 - Desvios condicionais
 - Estrutura de repetição
 - Armazenamento de dados em byte
+
+  ## Arquivo
+
+- `adivinhar_numero.asm` - implementação do programa em Assembly MIPS

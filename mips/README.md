@@ -1,9 +1,11 @@
 # Montagem MIPS
 
-Esta pasta reúne as atividades práticas desenvolvidas em Assembly MIPS na disciplina de Arquitetura de Sistemas Computacionais.
+Esta pasta reúne os laboratórios desenvolvidos em Assembly MIPS na disciplina de Arquitetura de Sistemas Computacionais.
 
-## Atividades
+## Laboratórios
 
-- Jogo de adivinhação
-- Fatorial recursivo
-- Fibonacci recursivo
+### Lab 01 - Eco
+Programa que lê um número inteiro digitado pelo usuário e imprime o mesmo valor.
+
+### Lab 02 - Adivinhar Número
+Programa que solicita um número entre 0 e 100 e continua solicitando novos valores até que o número inicial seja digitado novamente.
